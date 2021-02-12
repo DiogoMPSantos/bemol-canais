@@ -5,6 +5,7 @@
     PHP 7.4.13
     Servidor XAMP
 ## Como executar
+    Adicionar banco 'bemolcanaisdb' ao Mysql
     Database: php artisan migrate
     Laravel Start: php artisan serve
 
