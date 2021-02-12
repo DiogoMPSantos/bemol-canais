@@ -1,0 +1,14 @@
+1. A solução deve ser disponibilizada em Cloud ou On-premisse?
+    Considerando custos implementação da solução, Cloud é um caminho mais viável.
+
+2. Considerando a participação de 4 pessoas técnicas para o desenvolvimento dessa solução, responda qual ferramenta acreditas ser apropriada para o controle de tarefas de equipe, a ferramenta é agil?
+    Dentro da minha experiência, o software Jira é excelente para gestão de equipes graças a sua facilidade de aprendizado e interação com método ágil Scrum.
+
+3. Você se sente capaz de liderar esta equipe? Por quê?
+    Não, preciso de mais experiência como líder de equipe e também conhecer a equipe de trabalho.
+
+4. Se pudesse sugerir uma melhoria, mudança ou oportunidade. O que seria?
+    Não tenho sugestões.
+
+5. Acha válido esse desafio para o processo que está particiando?
+    É valido, porque verifica diversos aspectos de um perfil de engenheiro.

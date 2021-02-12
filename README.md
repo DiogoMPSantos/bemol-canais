@@ -11,3 +11,6 @@
 
 ## Acesso
     Acessar endereço localhost:8000/
+
+## Questionário
+    O arquivo questionario.txt  contém as respostas do item Questões.
